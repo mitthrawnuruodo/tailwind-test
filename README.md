@@ -1,4 +1,4 @@
-# Installing Teilwind
+# Installing Tailwind
 
 Run `npm i` to initialize repo.
 
